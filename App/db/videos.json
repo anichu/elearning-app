@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"courseName": "Introduction to Web Development",
+		"description": "Learn the basics of web development with HTML, CSS, and JavaScript.",
+		"instructor": "John Doe",
+		"duration": "4 weeks",
+		"tags": ["web development", "HTML", "CSS", "JavaScript"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "30:00",
+		"videoThumbnail": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 2,
+		"courseName": "Python for Beginners",
+		"description": "An introductory course to learn Python programming from scratch.",
+		"instructor": "Jane Smith",
+		"duration": "6 weeks",
+		"tags": ["Python", "programming", "beginner"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "45:00",
+		"videoThumbnail": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 3,
+		"courseName": "Data Science Fundamentals",
+		"description": "Explore the basics of data science and data analysis techniques.",
+		"instructor": "Mike Johnson",
+		"duration": "8 weeks",
+		"tags": ["data science", "data analysis", "statistics"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:15:00",
+		"videoThumbnail": "https://plus.unsplash.com/premium_photo-1681586533774-1d9d42425712?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=677&q=80"
+	},
+	{
+		"id": 4,
+		"courseName": "Machine Learning with TensorFlow",
+		"description": "A hands-on course to learn machine learning using TensorFlow library.",
+		"instructor": "Sarah Lee",
+		"duration": "10 weeks",
+		"tags": ["machine learning", "TensorFlow", "artificial intelligence"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:30:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+	}
+]

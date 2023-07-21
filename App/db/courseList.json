@@ -1,0 +1,296 @@
+[
+	{
+		"id": 5,
+		"courseName": "JavaScript Fundamentals",
+		"description": "A comprehensive course to learn the fundamentals of JavaScript programming.",
+		"instructor": "Chris Johnson",
+		"duration": "6 weeks",
+		"tags": ["JavaScript", "programming", "web development"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:00:00",
+		"videoThumbnail": "https://images.pexels.com/photos/39808/pexels-photo-39808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"sections": [
+			"Introduction to JavaScript",
+			"Variables and Data Types",
+			"Functions and Loops",
+			"DOM Manipulation",
+			"Asynchronous Programming"
+		]
+	},
+	{
+		"id": 6,
+		"courseName": "React Native Basics",
+		"description": "Learn the basics of building mobile apps with React Native.",
+		"instructor": "Emily Roberts",
+		"duration": "8 weeks",
+		"tags": ["React Native", "mobile app development", "JavaScript"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:15:00",
+		"videoThumbnail": "https://media.istockphoto.com/id/1304368895/vector/javascript-javascript-programming-language-with-script-code-on-laptop-screen.webp?b=1&s=612x612&w=0&k=20&c=JXU6ZNqGtUvEokoKZ9feeUyqj0NWIj7xfBdHWy695GI=",
+		"sections": [
+			"Introduction to React Native",
+			"Components and Styling",
+			"State Management",
+			"Navigation",
+			"Building an App"
+		]
+	},
+	{
+		"id": 7,
+		"courseName": "Python Data Analysis",
+		"description": "Master data analysis with Python and popular libraries like Pandas and NumPy.",
+		"instructor": "Michael Brown",
+		"duration": "12 weeks",
+		"tags": ["Python", "data analysis", "Pandas", "NumPy"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "2:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+		"sections": [
+			"Introduction to Data Analysis",
+			"Data Cleaning",
+			"Data Visualization",
+			"Statistical Analysis",
+			"Machine Learning with Python"
+		]
+	},
+	{
+		"id": 8,
+		"courseName": "Artificial Intelligence Essentials",
+		"description": "Get started with the basics of artificial intelligence and machine learning.",
+		"instructor": "Alex Turner",
+		"duration": "10 weeks",
+		"tags": ["artificial intelligence", "machine learning", "neural networks"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:30:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1616161560417-66d4db5892ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+		"sections": [
+			"Introduction to AI",
+			"Supervised Learning",
+			"Unsupervised Learning",
+			"Deep Learning",
+			"AI Applications"
+		]
+	},
+	{
+		"id": 9,
+		"courseName": "Data Visualization with D3.js",
+		"description": "Learn how to create interactive data visualizations with D3.js library.",
+		"instructor": "Sophia Anderson",
+		"duration": "6 weeks",
+		"tags": ["data visualization", "D3.js", "JavaScript", "SVG"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1593642537302-74d0435ef048?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to Data Visualization",
+			"Creating Charts with D3.js",
+			"Interactive Visualizations",
+			"Data Mapping",
+			"Custom Visualizations"
+		]
+	},
+	{
+		"id": 10,
+		"courseName": "Node.js for Backend Development",
+		"description": "Build scalable server-side applications with Node.js and Express.js.",
+		"instructor": "David Williams",
+		"duration": "8 weeks",
+		"tags": ["Node.js", "Express.js", "backend development", "JavaScript"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:15:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1535362501-c2bbdd67ba79?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to Node.js",
+			"Building APIs with Express.js",
+			"Authentication and Security",
+			"Database Integration",
+			"Deploying Node.js Applications"
+		]
+	},
+	{
+		"id": 11,
+		"courseName": "Frontend Development with React",
+		"description": "Learn to build modern web applications using React and Redux.",
+		"instructor": "Alex Turner",
+		"duration": "10 weeks",
+		"tags": ["React", "frontend development", "Redux", "JavaScript"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:30:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1579065604258-3a0a0158eb90?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+		"sections": [
+			"Introduction to React",
+			"Components and Props",
+			"State and Lifecycle",
+			"React Hooks",
+			"State Management with Redux"
+		]
+	},
+	{
+		"id": 12,
+		"courseName": "Full-Stack Web Development",
+		"description": "Master both frontend and backend development with JavaScript.",
+		"instructor": "Sarah Lee",
+		"duration": "12 weeks",
+		"tags": [
+			"full-stack development",
+			"JavaScript",
+			"React",
+			"Node.js",
+			"Express.js"
+		],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "2:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1533867617852-92f0881470a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to Full-Stack Development",
+			"Frontend Development with React",
+			"Backend Development with Node.js",
+			"Database Integration",
+			"Building a Full-Stack Application"
+		]
+	},
+	{
+		"id": 13,
+		"courseName": "Mobile App Development with Flutter",
+		"description": "Create cross-platform mobile apps with Flutter and Dart.",
+		"instructor": "Emily Roberts",
+		"duration": "8 weeks",
+		"tags": ["Flutter", "mobile app development", "Dart"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:15:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1560958102-ccfe14b72b09?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+		"sections": [
+			"Introduction to Flutter",
+			"Widgets and UI Design",
+			"State Management",
+			"Navigation and Routing",
+			"Building a Cross-Platform App"
+		]
+	},
+	{
+		"id": 14,
+		"courseName": "Database Design and Management",
+		"description": "Learn to design and manage databases for web applications.",
+		"instructor": "Michael Brown",
+		"duration": "6 weeks",
+		"tags": ["database management", "SQL", "database design"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1559050604-44c4a4fbf3dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to Databases",
+			"Relational Database Design",
+			"SQL Queries",
+			"Data Modeling",
+			"Database Administration"
+		]
+	},
+	{
+		"id": 15,
+		"courseName": "Ethical Hacking Fundamentals",
+		"description": "Explore the world of ethical hacking and cybersecurity.",
+		"instructor": "John Doe",
+		"duration": "8 weeks",
+		"tags": ["ethical hacking", "cybersecurity", "penetration testing"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:15:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1506426436743-6bc64c55b15f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to Ethical Hacking",
+			"Networking Concepts",
+			"Vulnerability Assessment",
+			"Exploitation Techniques",
+			"Cybersecurity Best Practices"
+		]
+	},
+	{
+		"id": 16,
+		"courseName": "UI/UX Design Essentials",
+		"description": "Learn the principles of user interface and user experience design.",
+		"instructor": "Sophia Anderson",
+		"duration": "6 weeks",
+		"tags": ["UI design", "UX design", "user experience"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1491002512933-ef3a79c74dbf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to UI/UX Design",
+			"User Research and Analysis",
+			"Prototyping and Wireframing",
+			"Visual Design Principles",
+			"User Testing and Feedback"
+		]
+	},
+	{
+		"id": 17,
+		"courseName": "AWS Cloud Computing",
+		"description": "Get started with cloud computing using Amazon Web Services (AWS).",
+		"instructor": "David Williams",
+		"duration": "10 weeks",
+		"tags": ["AWS", "cloud computing", "Amazon Web Services"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:30:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1547851375-82424773ce24?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to AWS",
+			"Compute Services",
+			"Storage and Databases",
+			"Security and Networking",
+			"Deploying Applications on AWS"
+		]
+	},
+	{
+		"id": 18,
+		"courseName": "Android App Development",
+		"description": "Build native Android apps using Java and Android Studio.",
+		"instructor": "Jane Smith",
+		"duration": "12 weeks",
+		"tags": ["Android development", "Java", "mobile app development"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "2:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1527689368861-3a821dbcccff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+		"sections": [
+			"Introduction to Android Development",
+			"UI Design and Layouts",
+			"Data Storage and Persistence",
+			"App Components",
+			"Publishing an App to Google Play"
+		]
+	},
+	{
+		"id": 19,
+		"courseName": "Introduction to Cybersecurity",
+		"description": "Discover the fundamentals of cybersecurity and data protection.",
+		"instructor": "Chris Johnson",
+		"duration": "6 weeks",
+		"tags": ["cybersecurity", "data protection", "network security"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:00:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1493666438817-3d8e8088dc4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80",
+		"sections": [
+			"Introduction to Cybersecurity",
+			"Threats and Vulnerabilities",
+			"Network Security",
+			"Encryption and Data Protection",
+			"Cybersecurity Best Practices"
+		]
+	},
+	{
+		"id": 20,
+		"courseName": "Web Design for Beginners",
+		"description": "Learn the basics of web design and create stunning websites.",
+		"instructor": "Mike Johnson",
+		"duration": "8 weeks",
+		"tags": ["web design", "HTML", "CSS", "user experience"],
+		"videoURL": "https://www.sample-videos.com/video123/mp4/480/big_buck_bunny_480p_10mb.mp4",
+		"videoDuration": "1:15:00",
+		"videoThumbnail": "https://images.unsplash.com/photo-1534237714118-25a7f23e9064?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+		"sections": [
+			"Introduction to Web Design",
+			"HTML and CSS Basics",
+			"Responsive Web Design",
+			"Web Graphics and Multimedia",
+			"Launching a Website"
+		]
+	}
+]
